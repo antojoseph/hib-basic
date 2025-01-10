@@ -2,6 +2,8 @@
 
 This repository contains multiple sub-projects, each with its own specific instructions. Please refer to the README files inside each folder for detailed information:
 
+ ## How to Run
+
 - [HelloWorld](helloworld/hello_foundry/README.md)
   ```sh
   forge test
@@ -22,6 +24,4 @@ This repository contains multiple sub-projects, each with its own specific instr
     ```sh
     forge test --contracts ./src/test/Visibility.sol -vvvv
     ```
- ## How to Run
 
-To run a challenge, navigate to the respective folder and follow the instructions provided in the `README.md` file within that folder.
