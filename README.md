@@ -2,7 +2,7 @@
 
 This repository contains multiple sub-projects, each with its own specific instructions. Please refer to the README files inside each folder for detailed information:
 
-- [HelloWorld] (https://github.com/antojoseph/hib-basic/tree/main/helloworld/hello_foundry/README.md)
+- [HelloWorld](helloworld/hello_foundry/README.md)
 - [Overflow](overflow/README.md)
 - [Reentrancy](reentrancy/re-entrancy.md)
 - [Uninitialized](unInitialized/README.md)
